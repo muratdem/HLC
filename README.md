@@ -11,6 +11,7 @@ vc.tla models Hybrid Vector Clocks in PlusCal.
 http://muratbuffalo.blogspot.com/2015/10/analysis-of-bounds-on-hybrid-vector.html
 https://www.cse.buffalo.edu//~demirbas/publications/augmentedTime.pdf
 
+Also see https://github.com/muratdem/PlusCal-examples for more PlusCal examples.
 ## Installation
 
 To run these Pluscal/TLA+ models, you need the TLA+ toolkit, available at
